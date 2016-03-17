@@ -282,7 +282,7 @@ static Queue_Handle hOadQ;
 #endif //FEATURE_OAD
 
 // Device information parameters
-static const uint8_t devInfoModelNumber[] = "DevPack TFM";
+static const uint8_t devInfoModelNumber[] = "CC2650 TFM";
 static const uint8_t devInfoNA[] =          "N.A.";
 static const uint8_t devInfoFirmwareRev[] = FW_VERSION_STR;
 static const uint8_t devInfoMfrName[] =     "Texas Instruments";
